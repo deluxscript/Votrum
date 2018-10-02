@@ -1,0 +1,33 @@
+.home-footer {
+    justify-content: space-between;
+    align-content: center;
+    line-height: 2;
+    background: #0097e6;
+    color: white;
+    padding-left: 56px;
+    padding-right: 56px;
+}
+
+.home-margin {
+    margin: 0 40px;
+}
+
+.home-content {
+    height: calc(100vh - 176.6px);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-btn {
+    background: #0097e6;
+    box-shadow: 5px 4px 8px #888888;
+}
+
+.Text {
+    font-size: 30px;
+}
+
+.subText {
+    color: #747d8c;
+}
